@@ -6,6 +6,9 @@
 
 
 
+
+
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aashishbasnet&label=Profile%20views&color=0e75b6&style=flat" alt="aashishbasnet" />
 </p>
@@ -17,14 +20,19 @@
 - 📫 Let’s connect! Reach out to me here: **basnetashish756@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/link.png" alt="Connect" style="height: 20px; width: 20px; vertical-align: middle;" />
+  Connect with me:
+</h3>
 <p align="left">
   <a href="https://twitter.com/cookin_meth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cookin_meth" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/aashish-basnet-360289313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish-basnet-360289313" height="30" width="40" /></a>
   <a href="https://fb.com/ashish.basnet.786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish.basnet.786" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="left">Tools I Work With:</h3>
+
+---
+### 🧰 Tools I Work With:
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- C and C++ Icons in first row -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -68,10 +76,12 @@
 
 <br><br>
 
+#
+
 ### 📊 Stats
 
 ![Aashish Basnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishbasnet&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AashishBasnet&theme=gruvbox&border_radius=4.5)
 
-
+#
