@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashish Basnet</h1>
 <h3 align="center">A passionate and driven Computer Engineering student.</h3>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRibTBqcWltejQyaGRwMWljZmdkMHA3NW9wb2FmYm0zcWVvMzcwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="Development GIF" style="width: 100%; height: auto;">
+<img align = "right"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRibTBqcWltejQyaGRwMWljZmdkMHA3NW9wb2FmYm0zcWVvMzcwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="Development GIF" width = "450" >
 
 
 
